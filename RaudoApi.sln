@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaudoApi", "RaudoApi\RaudoApi.csproj", "{12FEE9CF-2D04-47FE-A6D7-62B1964E1EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12FEE9CF-2D04-47FE-A6D7-62B1964E1EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FEE9CF-2D04-47FE-A6D7-62B1964E1EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FEE9CF-2D04-47FE-A6D7-62B1964E1EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FEE9CF-2D04-47FE-A6D7-62B1964E1EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C3027A8-D9FF-45A1-8C94-C25FFC8DA259}
+	EndGlobalSection
+EndGlobal
